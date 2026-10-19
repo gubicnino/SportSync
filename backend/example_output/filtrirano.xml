@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<filtriraniDogodki>
+  <dogodek id="fd:537812">
+    <sport>FOOTBALL</sport>
+    <tip>MATCH</tip>
+    <tekmovanje>Premier League</tekmovanje>
+    <naslov>Arsenal vs Chelsea</naslov>
+    <datum>2026-10-18</datum>
+    <ura>15:30</ura>
+    <prizorisce>Emirates Stadium</prizorisce>
+    <status>FINISHED</status>
+    <domaci id="fd:57">
+      <sport>FOOTBALL</sport>
+      <ime>Arsenal</ime>
+      <kratkoIme>ARS</kratkoIme>
+      <tekmovanje>Premier League</tekmovanje>
+      <mesto>London</mesto>
+      <ustanovljena>1886</ustanovljena>
+      <grbUrl>https://crests.football-data.org/57.png</grbUrl>
+    </domaci>
+    <gostje id="fd:61">
+      <sport>FOOTBALL</sport>
+      <ime>Chelsea</ime>
+      <kratkoIme>CHE</kratkoIme>
+      <tekmovanje>Premier League</tekmovanje>
+      <mesto>London</mesto>
+      <ustanovljena>1905</ustanovljena>
+      <grbUrl>https://crests.football-data.org/61.png</grbUrl>
+    </gostje>
+    <rezultatDomaci>2</rezultatDomaci>
+    <rezultatGostje>1</rezultatGostje>
+  </dogodek>
+  <dogodek id="bdl:18447170">
+    <sport>BASKETBALL</sport>
+    <tip>MATCH</tip>
+    <tekmovanje>NBA</tekmovanje>
+    <naslov>Denver Nuggets vs Boston Celtics</naslov>
+    <datum>2026-10-21</datum>
+    <ura>00:00</ura>
+    <status>SCHEDULED</status>
+    <domaci id="bdl:8">
+      <sport>BASKETBALL</sport>
+      <ime>Denver Nuggets</ime>
+      <kratkoIme>DEN</kratkoIme>
+      <tekmovanje>NBA</tekmovanje>
+      <mesto>Denver</mesto>
+      <ustanovljena>1967</ustanovljena>
+    </domaci>
+    <gostje id="bdl:2">
+      <sport>BASKETBALL</sport>
+      <ime>Boston Celtics</ime>
+      <kratkoIme>BOS</kratkoIme>
+      <tekmovanje>NBA</tekmovanje>
+      <mesto>Boston</mesto>
+      <ustanovljena>1946</ustanovljena>
+    </gostje>
+  </dogodek>
+  <dogodek id="fd:551200">
+    <sport>FOOTBALL</sport>
+    <tip>MATCH</tip>
+    <tekmovanje>Champions League</tekmovanje>
+    <naslov>Arsenal vs FC Bayern München</naslov>
+    <datum>2026-10-21</datum>
+    <ura>19:00</ura>
+    <prizorisce>Emirates Stadium</prizorisce>
+    <status>SCHEDULED</status>
+    <domaci id="fd:57">
+      <sport>FOOTBALL</sport>
+      <ime>Arsenal</ime>
+      <kratkoIme>ARS</kratkoIme>
+      <tekmovanje>Premier League</tekmovanje>
+      <mesto>London</mesto>
+      <ustanovljena>1886</ustanovljena>
+      <grbUrl>https://crests.football-data.org/57.png</grbUrl>
+    </domaci>
+    <gostje id="fd:5">
+      <sport>FOOTBALL</sport>
+      <ime>FC Bayern München</ime>
+      <kratkoIme>FCB</kratkoIme>
+      <tekmovanje>Bundesliga</tekmovanje>
+      <mesto>München</mesto>
+      <ustanovljena>1900</ustanovljena>
+      <grbUrl>https://crests.football-data.org/5.png</grbUrl>
+    </gostje>
+  </dogodek>
+  <dogodek id="jolpica:2026-19-QUALIFYING">
+    <sport>F1</sport>
+    <tip>F1_QUALIFYING</tip>
+    <tekmovanje>Formula 1 2026</tekmovanje>
+    <naslov>F1 – United States Grand Prix (Qualifying)</naslov>
+    <datum>2026-10-24</datum>
+    <ura>21:00</ura>
+    <prizorisce>Circuit of the Americas</prizorisce>
+    <status>SCHEDULED</status>
+  </dogodek>
+  <dogodek id="jolpica:2026-19-RACE">
+    <sport>F1</sport>
+    <tip>F1_RACE</tip>
+    <tekmovanje>Formula 1 2026</tekmovanje>
+    <naslov>F1 – United States Grand Prix (Race)</naslov>
+    <datum>2026-10-25</datum>
+    <ura>19:00</ura>
+    <prizorisce>Circuit of the Americas</prizorisce>
+    <status>SCHEDULED</status>
+  </dogodek>
+  <dogodek id="jolpica:2026-20-FP1">
+    <sport>F1</sport>
+    <tip>F1_PRACTICE</tip>
+    <tekmovanje>Formula 1 2026</tekmovanje>
+    <naslov>F1 – Mexico City Grand Prix (Practice 1)</naslov>
+    <datum>2026-10-30</datum>
+    <ura>18:30</ura>
+    <prizorisce>Autódromo Hermanos Rodríguez</prizorisce>
+    <status>SCHEDULED</status>
+  </dogodek>
+  <dogodek id="fd:537840">
+    <sport>FOOTBALL</sport>
+    <tip>MATCH</tip>
+    <tekmovanje>Premier League</tekmovanje>
+    <naslov>Manchester City vs Arsenal</naslov>
+    <datum>2026-11-01</datum>
+    <ura>15:00</ura>
+    <prizorisce>Etihad Stadium</prizorisce>
+    <status>SCHEDULED</status>
+    <domaci id="fd:65">
+      <sport>FOOTBALL</sport>
+      <ime>Manchester City</ime>
+      <kratkoIme>MCI</kratkoIme>
+      <tekmovanje>Premier League</tekmovanje>
+      <mesto>Manchester</mesto>
+      <ustanovljena>1880</ustanovljena>
+      <grbUrl>https://crests.football-data.org/65.png</grbUrl>
+    </domaci>
+    <gostje id="fd:57">
+      <sport>FOOTBALL</sport>
+      <ime>Arsenal</ime>
+      <kratkoIme>ARS</kratkoIme>
+      <tekmovanje>Premier League</tekmovanje>
+      <mesto>London</mesto>
+      <ustanovljena>1886</ustanovljena>
+      <grbUrl>https://crests.football-data.org/57.png</grbUrl>
+    </gostje>
+  </dogodek>
+  <dogodek id="jolpica:2026-20-RACE">
+    <sport>F1</sport>
+    <tip>F1_RACE</tip>
+    <tekmovanje>Formula 1 2026</tekmovanje>
+    <naslov>F1 – Mexico City Grand Prix (Race)</naslov>
+    <datum>2026-11-01</datum>
+    <ura>20:00</ura>
+    <prizorisce>Autódromo Hermanos Rodríguez</prizorisce>
+    <status>SCHEDULED</status>
+  </dogodek>
+</filtriraniDogodki>

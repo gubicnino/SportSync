@@ -1,0 +1,160 @@
+[ {
+  "id" : "fd:537812",
+  "sport" : "FOOTBALL",
+  "tip" : "MATCH",
+  "tekmovanje" : "Premier League",
+  "naslov" : "Arsenal vs Chelsea",
+  "datum" : "2026-10-18",
+  "ura" : "15:30",
+  "prizorisce" : "Emirates Stadium",
+  "status" : "FINISHED",
+  "domaci" : {
+    "id" : "fd:57",
+    "sport" : "FOOTBALL",
+    "ime" : "Arsenal",
+    "kratkoIme" : "ARS",
+    "tekmovanje" : "Premier League",
+    "mesto" : "London",
+    "ustanovljena" : 1886,
+    "grbUrl" : "https://crests.football-data.org/57.png"
+  },
+  "gostje" : {
+    "id" : "fd:61",
+    "sport" : "FOOTBALL",
+    "ime" : "Chelsea",
+    "kratkoIme" : "CHE",
+    "tekmovanje" : "Premier League",
+    "mesto" : "London",
+    "ustanovljena" : 1905,
+    "grbUrl" : "https://crests.football-data.org/61.png"
+  },
+  "rezultatDomaci" : 2,
+  "rezultatGostje" : 1
+}, {
+  "id" : "bdl:18447170",
+  "sport" : "BASKETBALL",
+  "tip" : "MATCH",
+  "tekmovanje" : "NBA",
+  "naslov" : "Denver Nuggets vs Boston Celtics",
+  "datum" : "2026-10-21",
+  "ura" : "00:00",
+  "status" : "SCHEDULED",
+  "domaci" : {
+    "id" : "bdl:8",
+    "sport" : "BASKETBALL",
+    "ime" : "Denver Nuggets",
+    "kratkoIme" : "DEN",
+    "tekmovanje" : "NBA",
+    "mesto" : "Denver",
+    "ustanovljena" : 1967
+  },
+  "gostje" : {
+    "id" : "bdl:2",
+    "sport" : "BASKETBALL",
+    "ime" : "Boston Celtics",
+    "kratkoIme" : "BOS",
+    "tekmovanje" : "NBA",
+    "mesto" : "Boston",
+    "ustanovljena" : 1946
+  }
+}, {
+  "id" : "fd:551200",
+  "sport" : "FOOTBALL",
+  "tip" : "MATCH",
+  "tekmovanje" : "Champions League",
+  "naslov" : "Arsenal vs FC Bayern München",
+  "datum" : "2026-10-21",
+  "ura" : "19:00",
+  "prizorisce" : "Emirates Stadium",
+  "status" : "SCHEDULED",
+  "domaci" : {
+    "id" : "fd:57",
+    "sport" : "FOOTBALL",
+    "ime" : "Arsenal",
+    "kratkoIme" : "ARS",
+    "tekmovanje" : "Premier League",
+    "mesto" : "London",
+    "ustanovljena" : 1886,
+    "grbUrl" : "https://crests.football-data.org/57.png"
+  },
+  "gostje" : {
+    "id" : "fd:5",
+    "sport" : "FOOTBALL",
+    "ime" : "FC Bayern München",
+    "kratkoIme" : "FCB",
+    "tekmovanje" : "Bundesliga",
+    "mesto" : "München",
+    "ustanovljena" : 1900,
+    "grbUrl" : "https://crests.football-data.org/5.png"
+  }
+}, {
+  "id" : "jolpica:2026-19-QUALIFYING",
+  "sport" : "F1",
+  "tip" : "F1_QUALIFYING",
+  "tekmovanje" : "Formula 1 2026",
+  "naslov" : "F1 – United States Grand Prix (Qualifying)",
+  "datum" : "2026-10-24",
+  "ura" : "21:00",
+  "prizorisce" : "Circuit of the Americas",
+  "status" : "SCHEDULED"
+}, {
+  "id" : "jolpica:2026-19-RACE",
+  "sport" : "F1",
+  "tip" : "F1_RACE",
+  "tekmovanje" : "Formula 1 2026",
+  "naslov" : "F1 – United States Grand Prix (Race)",
+  "datum" : "2026-10-25",
+  "ura" : "19:00",
+  "prizorisce" : "Circuit of the Americas",
+  "status" : "SCHEDULED"
+}, {
+  "id" : "jolpica:2026-20-FP1",
+  "sport" : "F1",
+  "tip" : "F1_PRACTICE",
+  "tekmovanje" : "Formula 1 2026",
+  "naslov" : "F1 – Mexico City Grand Prix (Practice 1)",
+  "datum" : "2026-10-30",
+  "ura" : "18:30",
+  "prizorisce" : "Autódromo Hermanos Rodríguez",
+  "status" : "SCHEDULED"
+}, {
+  "id" : "fd:537840",
+  "sport" : "FOOTBALL",
+  "tip" : "MATCH",
+  "tekmovanje" : "Premier League",
+  "naslov" : "Manchester City vs Arsenal",
+  "datum" : "2026-11-01",
+  "ura" : "15:00",
+  "prizorisce" : "Etihad Stadium",
+  "status" : "SCHEDULED",
+  "domaci" : {
+    "id" : "fd:65",
+    "sport" : "FOOTBALL",
+    "ime" : "Manchester City",
+    "kratkoIme" : "MCI",
+    "tekmovanje" : "Premier League",
+    "mesto" : "Manchester",
+    "ustanovljena" : 1880,
+    "grbUrl" : "https://crests.football-data.org/65.png"
+  },
+  "gostje" : {
+    "id" : "fd:57",
+    "sport" : "FOOTBALL",
+    "ime" : "Arsenal",
+    "kratkoIme" : "ARS",
+    "tekmovanje" : "Premier League",
+    "mesto" : "London",
+    "ustanovljena" : 1886,
+    "grbUrl" : "https://crests.football-data.org/57.png"
+  }
+}, {
+  "id" : "jolpica:2026-20-RACE",
+  "sport" : "F1",
+  "tip" : "F1_RACE",
+  "tekmovanje" : "Formula 1 2026",
+  "naslov" : "F1 – Mexico City Grand Prix (Race)",
+  "datum" : "2026-11-01",
+  "ura" : "20:00",
+  "prizorisce" : "Autódromo Hermanos Rodríguez",
+  "status" : "SCHEDULED"
+} ]
