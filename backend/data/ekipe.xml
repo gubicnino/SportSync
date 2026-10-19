@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ekipe (Team iz podatki.md). ID ima obliko {vir}:{zunanjiId}. Podatki so izmisljeni. -->
+<ekipe>
+    <ekipa id="fd:57">
+        <sport>FOOTBALL</sport>
+        <ime>Arsenal</ime>
+        <kratkoIme>ARS</kratkoIme>
+        <tekmovanje>Premier League</tekmovanje>
+        <mesto>London</mesto>
+        <ustanovljena>1886</ustanovljena>
+        <grbUrl>https://crests.football-data.org/57.png</grbUrl>
+    </ekipa>
+    <ekipa id="fd:61">
+        <sport>FOOTBALL</sport>
+        <ime>Chelsea</ime>
+        <kratkoIme>CHE</kratkoIme>
+        <tekmovanje>Premier League</tekmovanje>
+        <mesto>London</mesto>
+        <ustanovljena>1905</ustanovljena>
+        <grbUrl>https://crests.football-data.org/61.png</grbUrl>
+    </ekipa>
+    <ekipa id="fd:64">
+        <sport>FOOTBALL</sport>
+        <ime>Liverpool</ime>
+        <kratkoIme>LIV</kratkoIme>
+        <tekmovanje>Premier League</tekmovanje>
+        <mesto>Liverpool</mesto>
+        <ustanovljena>1892</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="fd:65">
+        <sport>FOOTBALL</sport>
+        <ime>Manchester City</ime>
+        <kratkoIme>MCI</kratkoIme>
+        <tekmovanje>Premier League</tekmovanje>
+        <mesto>Manchester</mesto>
+        <ustanovljena>1880</ustanovljena>
+        <grbUrl>https://crests.football-data.org/65.png</grbUrl>
+    </ekipa>
+    <ekipa id="fd:86">
+        <sport>FOOTBALL</sport>
+        <ime>Real Madrid</ime>
+        <kratkoIme>RMA</kratkoIme>
+        <tekmovanje>La Liga</tekmovanje>
+        <mesto>Madrid</mesto>
+        <ustanovljena>1902</ustanovljena>
+        <grbUrl>https://crests.football-data.org/86.png</grbUrl>
+    </ekipa>
+    <ekipa id="fd:81">
+        <sport>FOOTBALL</sport>
+        <ime>FC Barcelona</ime>
+        <kratkoIme>BAR</kratkoIme>
+        <tekmovanje>La Liga</tekmovanje>
+        <mesto>Barcelona</mesto>
+        <ustanovljena>1899</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="fd:5">
+        <sport>FOOTBALL</sport>
+        <ime>FC Bayern München</ime>
+        <kratkoIme>FCB</kratkoIme>
+        <tekmovanje>Bundesliga</tekmovanje>
+        <mesto>München</mesto>
+        <ustanovljena>1900</ustanovljena>
+        <grbUrl>https://crests.football-data.org/5.png</grbUrl>
+    </ekipa>
+    <ekipa id="fd:108">
+        <sport>FOOTBALL</sport>
+        <ime>FC Internazionale Milano</ime>
+        <kratkoIme>INT</kratkoIme>
+        <tekmovanje>Serie A</tekmovanje>
+        <mesto>Milano</mesto>
+        <ustanovljena>1908</ustanovljena>
+    </ekipa>
+    <ekipa id="bdl:8">
+        <sport>BASKETBALL</sport>
+        <ime>Denver Nuggets</ime>
+        <kratkoIme>DEN</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>Denver</mesto>
+        <ustanovljena>1967</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="bdl:2">
+        <sport>BASKETBALL</sport>
+        <ime>Boston Celtics</ime>
+        <kratkoIme>BOS</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>Boston</mesto>
+        <ustanovljena>1946</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="bdl:14">
+        <sport>BASKETBALL</sport>
+        <ime>Los Angeles Lakers</ime>
+        <kratkoIme>LAL</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>Los Angeles</mesto>
+        <ustanovljena>1947</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="bdl:10">
+        <sport>BASKETBALL</sport>
+        <ime>Golden State Warriors</ime>
+        <kratkoIme>GSW</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>San Francisco</mesto>
+        <ustanovljena>1946</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="bdl:20">
+        <sport>BASKETBALL</sport>
+        <ime>New York Knicks</ime>
+        <kratkoIme>NYK</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>New York</mesto>
+        <ustanovljena>1946</ustanovljena>
+        <grbUrl></grbUrl>
+    </ekipa>
+    <ekipa id="bdl:15">
+        <sport>BASKETBALL</sport>
+        <ime>Memphis Grizzlies</ime>
+        <kratkoIme>MEM</kratkoIme>
+        <tekmovanje>NBA</tekmovanje>
+        <mesto>Memphis</mesto>
+        <ustanovljena>1995</ustanovljena>
+    </ekipa>
+</ekipe>

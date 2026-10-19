@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Uporabniki (User + TeamSubscription + F1Subscription iz podatki.md).
+  narocnina/@teamId se sklicuje na ekipe.xml. Prazen telegramChatId pomeni, da Telegram ni povezan.
+  Podatki so izmisljeni.
+-->
+<uporabniki>
+    <uporabnik id="u1">
+        <email>ana.novak@example.com</email>
+        <prikaznoIme>Ana</prikaznoIme>
+        <registriran>2026-09-02</registriran>
+        <telegramChatId>123456789</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>true</f1>
+        <narocnine>
+            <narocnina teamId="fd:57"/>
+            <narocnina teamId="bdl:8"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u2">
+        <email>luka.kranjc@example.com</email>
+        <prikaznoIme>Luka</prikaznoIme>
+        <registriran>2026-09-05</registriran>
+        <telegramChatId></telegramChatId>
+        <tedenskiPregled>false</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="fd:86"/>
+            <narocnina teamId="fd:81"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u3">
+        <email>maja.zupan@example.com</email>
+        <prikaznoIme>Maja</prikaznoIme>
+        <registriran>2026-09-11</registriran>
+        <telegramChatId>234567890</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>true</f1>
+        <narocnine/>
+    </uporabnik>
+    <uporabnik id="u4">
+        <email>jan.horvat@example.com</email>
+        <prikaznoIme>Jan</prikaznoIme>
+        <registriran>2026-09-14</registriran>
+        <telegramChatId>345678901</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="bdl:14"/>
+            <narocnina teamId="bdl:10"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u5">
+        <email>eva.krajnc@example.com</email>
+        <prikaznoIme>Eva</prikaznoIme>
+        <registriran>2026-09-20</registriran>
+        <tedenskiPregled>false</tedenskiPregled>
+        <f1>true</f1>
+        <narocnine>
+            <narocnina teamId="fd:65"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u6">
+        <email>matic.potocnik@example.com</email>
+        <prikaznoIme>Matic</prikaznoIme>
+        <registriran>2026-09-22</registriran>
+        <telegramChatId>456789012</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="fd:64"/>
+            <narocnina teamId="fd:61"/>
+            <narocnina teamId="bdl:2"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u7">
+        <email>nina.kovacic@example.com</email>
+        <prikaznoIme>Nina</prikaznoIme>
+        <registriran>2026-09-28</registriran>
+        <telegramChatId></telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="fd:5"/>
+            <narocnina teamId="fd:108"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u8">
+        <email>tim.mlakar@example.com</email>
+        <prikaznoIme>Tim</prikaznoIme>
+        <registriran>2026-10-01</registriran>
+        <telegramChatId>567890123</telegramChatId>
+        <tedenskiPregled>false</tedenskiPregled>
+        <f1>true</f1>
+        <narocnine>
+            <narocnina teamId="bdl:20"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u9">
+        <email>sara.vidmar@example.com</email>
+        <prikaznoIme>Sara</prikaznoIme>
+        <registriran>2026-10-04</registriran>
+        <telegramChatId>678901234</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="fd:57"/>
+            <narocnina teamId="fd:65"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u10">
+        <email>rok.golob@example.com</email>
+        <prikaznoIme>Rok</prikaznoIme>
+        <registriran>2026-10-09</registriran>
+        <tedenskiPregled>false</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="bdl:15"/>
+            <narocnina teamId="bdl:8"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u11">
+        <email>lara.bizjak@example.com</email>
+        <prikaznoIme>Lara</prikaznoIme>
+        <registriran>2026-10-12</registriran>
+        <telegramChatId>789012345</telegramChatId>
+        <tedenskiPregled>true</tedenskiPregled>
+        <f1>true</f1>
+        <narocnine>
+            <narocnina teamId="fd:81"/>
+        </narocnine>
+    </uporabnik>
+    <uporabnik id="u12">
+        <email>zan.turk@example.com</email>
+        <prikaznoIme>Zan</prikaznoIme>
+        <registriran>2026-10-16</registriran>
+        <telegramChatId></telegramChatId>
+        <tedenskiPregled>false</tedenskiPregled>
+        <f1>false</f1>
+        <narocnine>
+            <narocnina teamId="fd:61"/>
+            <narocnina teamId="bdl:2"/>
+            <narocnina teamId="bdl:14"/>
+        </narocnine>
+    </uporabnik>
+</uporabniki>

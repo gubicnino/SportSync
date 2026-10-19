@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Dogodki (SportEvent iz podatki.md). domaciId / gostjeId se sklicujeta na ekipe.xml.
+  Datum je v obliki YYYY-MM-DD, ura je v UTC. F1 dogodki nimajo ekip (pripadajo vsem narocnikom F1).
+  Neodigrani dogodki nimajo rezultata (polja so izpuscena). Podatki so izmisljeni.
+-->
+<dogodki>
+    <dogodek id="fd:537812">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Premier League</tekmovanje>
+        <datum>2026-10-18</datum>
+        <ura>15:30</ura>
+        <prizorisce>Emirates Stadium</prizorisce>
+        <status>FINISHED</status>
+        <domaciId>fd:57</domaciId>
+        <gostjeId>fd:61</gostjeId>
+        <rezultatDomaci>2</rezultatDomaci>
+        <rezultatGostje>1</rezultatGostje>
+    </dogodek>
+    <dogodek id="fd:537820">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Premier League</tekmovanje>
+        <datum>2026-10-18</datum>
+        <ura>13:00</ura>
+        <prizorisce>Anfield</prizorisce>
+        <status>FINISHED</status>
+        <domaciId>fd:64</domaciId>
+        <gostjeId>fd:65</gostjeId>
+        <rezultatDomaci>1</rezultatDomaci>
+        <rezultatGostje>1</rezultatGostje>
+    </dogodek>
+    <dogodek id="fd:537831">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Premier League</tekmovanje>
+        <datum>2026-10-25</datum>
+        <ura>16:30</ura>
+        <prizorisce>Stamford Bridge</prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>fd:61</domaciId>
+        <gostjeId>fd:64</gostjeId>
+    </dogodek>
+    <dogodek id="fd:537840">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Premier League</tekmovanje>
+        <datum>2026-11-01</datum>
+        <ura>15:00</ura>
+        <prizorisce>Etihad Stadium</prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>fd:65</domaciId>
+        <gostjeId>fd:57</gostjeId>
+    </dogodek>
+    <dogodek id="fd:544101">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>La Liga</tekmovanje>
+        <datum>2026-10-26</datum>
+        <ura>15:15</ura>
+        <prizorisce>Estadio Santiago Bernabéu</prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>fd:86</domaciId>
+        <gostjeId>fd:81</gostjeId>
+    </dogodek>
+    <dogodek id="fd:551188">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Champions League</tekmovanje>
+        <datum>2026-10-07</datum>
+        <ura>19:00</ura>
+        <prizorisce>Stadio Giuseppe Meazza</prizorisce>
+        <status>FINISHED</status>
+        <domaciId>fd:108</domaciId>
+        <gostjeId>fd:86</gostjeId>
+        <rezultatDomaci>0</rezultatDomaci>
+        <rezultatGostje>2</rezultatGostje>
+    </dogodek>
+    <dogodek id="fd:551195">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Champions League</tekmovanje>
+        <datum>2026-10-08</datum>
+        <ura>19:00</ura>
+        <prizorisce>Allianz Arena</prizorisce>
+        <status>POSTPONED</status>
+        <domaciId>fd:5</domaciId>
+        <gostjeId>fd:81</gostjeId>
+    </dogodek>
+    <dogodek id="fd:551200">
+        <sport>FOOTBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>Champions League</tekmovanje>
+        <datum>2026-10-21</datum>
+        <ura>19:00</ura>
+        <prizorisce>Emirates Stadium</prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>fd:57</domaciId>
+        <gostjeId>fd:5</gostjeId>
+    </dogodek>
+    <dogodek id="bdl:18447150">
+        <sport>BASKETBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>NBA</tekmovanje>
+        <datum>2026-10-15</datum>
+        <ura>00:30</ura>
+        <prizorisce>Crypto.com Arena</prizorisce>
+        <status>FINISHED</status>
+        <domaciId>bdl:14</domaciId>
+        <gostjeId>bdl:10</gostjeId>
+        <rezultatDomaci>118</rezultatDomaci>
+        <rezultatGostje>112</rezultatGostje>
+    </dogodek>
+    <dogodek id="bdl:18447160">
+        <sport>BASKETBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>NBA</tekmovanje>
+        <datum>2026-10-17</datum>
+        <ura>23:30</ura>
+        <prizorisce></prizorisce>
+        <status>FINISHED</status>
+        <domaciId>bdl:20</domaciId>
+        <gostjeId>bdl:2</gostjeId>
+        <rezultatDomaci>104</rezultatDomaci>
+        <rezultatGostje>109</rezultatGostje>
+    </dogodek>
+    <dogodek id="bdl:18447170">
+        <sport>BASKETBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>NBA</tekmovanje>
+        <datum>2026-10-21</datum>
+        <ura>00:00</ura>
+        <prizorisce></prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>bdl:8</domaciId>
+        <gostjeId>bdl:2</gostjeId>
+    </dogodek>
+    <dogodek id="bdl:18447185">
+        <sport>BASKETBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>NBA</tekmovanje>
+        <datum>2026-10-23</datum>
+        <ura>02:00</ura>
+        <prizorisce>Chase Center</prizorisce>
+        <status>SCHEDULED</status>
+        <domaciId>bdl:10</domaciId>
+        <gostjeId>bdl:15</gostjeId>
+    </dogodek>
+    <dogodek id="bdl:18447192">
+        <sport>BASKETBALL</sport>
+        <tip>MATCH</tip>
+        <tekmovanje>NBA</tekmovanje>
+        <datum>2026-10-28</datum>
+        <ura>01:00</ura>
+        <prizorisce></prizorisce>
+        <status>CANCELLED</status>
+        <domaciId>bdl:15</domaciId>
+        <gostjeId>bdl:14</gostjeId>
+    </dogodek>
+    <dogodek id="jolpica:2026-18-RACE">
+        <sport>F1</sport>
+        <tip>F1_RACE</tip>
+        <tekmovanje>Formula 1 2026</tekmovanje>
+        <naslov>F1 – Singapore Grand Prix (Race)</naslov>
+        <datum>2026-10-11</datum>
+        <ura>12:00</ura>
+        <prizorisce>Marina Bay Street Circuit</prizorisce>
+        <status>FINISHED</status>
+        <zmagovalec>Lando Norris</zmagovalec>
+    </dogodek>
+    <dogodek id="jolpica:2026-19-QUALIFYING">
+        <sport>F1</sport>
+        <tip>F1_QUALIFYING</tip>
+        <tekmovanje>Formula 1 2026</tekmovanje>
+        <naslov>F1 – United States Grand Prix (Qualifying)</naslov>
+        <datum>2026-10-24</datum>
+        <ura>21:00</ura>
+        <prizorisce>Circuit of the Americas</prizorisce>
+        <status>SCHEDULED</status>
+    </dogodek>
+    <dogodek id="jolpica:2026-19-RACE">
+        <sport>F1</sport>
+        <tip>F1_RACE</tip>
+        <tekmovanje>Formula 1 2026</tekmovanje>
+        <naslov>F1 – United States Grand Prix (Race)</naslov>
+        <datum>2026-10-25</datum>
+        <ura>19:00</ura>
+        <prizorisce>Circuit of the Americas</prizorisce>
+        <status>SCHEDULED</status>
+    </dogodek>
+    <dogodek id="jolpica:2026-20-FP1">
+        <sport>F1</sport>
+        <tip>F1_PRACTICE</tip>
+        <tekmovanje>Formula 1 2026</tekmovanje>
+        <naslov>F1 – Mexico City Grand Prix (Practice 1)</naslov>
+        <datum>2026-10-30</datum>
+        <ura>18:30</ura>
+        <prizorisce>Autódromo Hermanos Rodríguez</prizorisce>
+        <status>SCHEDULED</status>
+    </dogodek>
+    <dogodek id="jolpica:2026-20-RACE">
+        <sport>F1</sport>
+        <tip>F1_RACE</tip>
+        <tekmovanje>Formula 1 2026</tekmovanje>
+        <naslov>F1 – Mexico City Grand Prix (Race)</naslov>
+        <datum>2026-11-01</datum>
+        <ura>20:00</ura>
+        <prizorisce>Autódromo Hermanos Rodríguez</prizorisce>
+        <status>SCHEDULED</status>
+    </dogodek>
+</dogodki>
